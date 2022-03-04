@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nwald97
-- 👀 I’m interested in all things product and UX
-- 🌱 I’m currently learning Python and studying for the CAPM
-- 💞️ I’m looking to collaborate on early-stage start ups related to marketplaces or publishing
+- 👀 I’m interested in all things content, product, and UX
+- 🌱 I’m currently learning SQL and studying (slowly) for the CAPM
+- 💞️ I’m looking to collaborate on early-stage start ups related to marketplaces, publishing, or financial services
 - 📫 How to reach me: https://www.linkedin.com/in/nathanielwaldman/ 
 
 <!---
